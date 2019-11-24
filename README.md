@@ -1,1 +1,3 @@
-# portfolio
+#Joe's Portfolio
+
+I created this porfolio so I can document and show my progression as a developer over the course of the next six months as I navigate my way through the KU Coding Bootcamp. This portfolio has a few different pages being the About Me page, Contact page, and the Portfolio page. My About Me page is a quick introduction to myself as a person and so whoever is visiting my portfolio will possibly be able to understand me more as a person. The Contact page is there for anyone to reach out to me if they wish to. Feel free to fill out the form and submit it and I will get back to you shortly. The portfolio page is where I will be showcasing my projects that are to come. I want to be able to show my improvements and knowledge of the field as I continue to attend the bootcamp.
