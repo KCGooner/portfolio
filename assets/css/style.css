@@ -8,3 +8,7 @@ body {
     text-align: center;
     background-image: url('../images/interlaced.png');
 }
+a {
+    float: right;
+    padding: 10px;
+}
