@@ -1,17 +1,5 @@
-
-h1 {
-    float: left;
-}
-h2 {
-    float: left;
-    clear: left;
-}
 div{
     align-content: center;
-    clear: left;
-}
-a{
-    float: right;
     clear: left;
 }
 #pic1 {
