@@ -1,3 +1,4 @@
+
 h1 {
     float: left;
 }
@@ -7,6 +8,11 @@ h2 {
 }
 div{
     align-content: center;
+    clear: left;
+}
+a{
+    float: right;
+    clear: left;
 }
 #pic1 {
 

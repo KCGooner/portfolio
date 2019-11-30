@@ -1,9 +1,9 @@
-html {
-    max-width:960px;
+header {
+    border-bottom: 5px solid #cccccc;
+    background-color: #ffffff;
 }
 a {
-    float: right;
-    padding: 5px;
+    text-align: right;
 }
 h1 {
     font-family: 'georgia', 'Times New Roman', Times, serif;
@@ -15,7 +15,7 @@ body {
     text-align: center;
     background-image: url('../images/interlaced.png');
 }
-.footer {
+footer {
     border-top: 8px solid #4aaaa5;
     position: fixed;
     left: 0;
