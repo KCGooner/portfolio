@@ -1,19 +1,33 @@
-div{
-    align-content: center;
-    clear: left;
+.picture {
+    height:200px;
+    width:200px;
 }
-#pic1 {
-
+.container {
+    position: relative;
+    display: inline-block;
+    padding:0px 0px 5px 0px;
 }
-#pic2 {
-
+.text-block {
+    position: absolute;
+    bottom: 20px;
+    background-color: #4aaaa5;
+    color:white;
+    width:100%;
 }
-#pic3 {
-
+.whitebox4 {
+    background-color: white;
+    overflow: auto;
+    margin: 20px 288px;
+    padding: 20px;
+    width: 960px;
 }
-#pic4 {
-
+.column {
+    float: left;
+    width:33.33%;
 }
-#pic5 {
-
+.container:hover {
+    -ms-transform: scale(1.5); /* IE 9 */
+    -webkit-transform: scale(1.5); /* Safari 3-8 */
+    transform: scale(1.5);
+    z-index: 999; 
 }
